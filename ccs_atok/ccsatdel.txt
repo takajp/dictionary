@@ -1,0 +1,31 @@
+!!DICUT11
+
+!! カードキャプターさくら用語辞書
+!! Version 2.00　for ATOK11以降
+!! ＜辞書No.6 「単語削除用辞書」＞
+
+!!0.9h以降
+たんげさくら	http://plaza13.mbn.or.jp/~wondernet/	固有一般
+あんざ	http://www.stardust.co.jp/rooms/anza/	固有一般
+たんげさくら	http://www.konami.co.jp/kme/alice/index.html	固有一般
+おがためぐみ	http://www.universal-music.co.jp/jpop/ogata/	固有一般
+するー	THE THROW	名詞
+ささきのぞみ	佐々木望	固有人名
+３１わ	さくらの名前のない本	固有一般
+りんぐ	THE RING	名詞
+りんぐ	輪	単漢字
+りんぐ	リング	名詞
+６３わ	６４話	名詞
+いわおじゅんこ	http://www.starboard.ne.jp/goo.html	固有一般
+５８わ	５７話	名詞
+やまななくる	山名奈久留	固有名詞
+さくらとあそぼ	さくらとあそぼ	固有商品
+さくらとあそぼ２	さくらとあそぼ２	固有商品
+おのざかまさや	小野坂昌也	固有人名
+やすいくにひろ	安井邦彦	固有人名
+あんざ	http://www.stardust.co.jp/rooms/anza/	固有一般
+たんげさくら	http://www.konami.co.jp/kme/alice/index.html	固有一般
+おがためぐみ	http://www.universal-music.co.jp/jpop/ogata/	固有一般
+さかもとまあや	http://www.jvcmusic.co.jp/m-serve/artist/maaya/body.html	固有一般
+
+!!0.9h以前

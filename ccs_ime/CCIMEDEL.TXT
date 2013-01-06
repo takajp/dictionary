@@ -1,0 +1,56 @@
+! カードキャプターさくら用語辞書 Version 1.21+ for MS-IME97以降
+! 制作：TAKA (wjb25857@biglobe.ne.jp)
+!     ：うる (uru@w3.to)
+! ＜辞書No.5 「単語削除用辞書」＞
+
+! ver.0.9f
+ふぁいありー	THE FIRERY	名詞
+ふぁいありぃ	THE FIRERY	名詞
+ふぁいありぃー	THE FIRERY	名詞
+ゆづきりょうか	柚木涼香	人名
+
+! ver.0.9h
+きみがいたけしき	君がいた景色	固有名詞
+
+! ver.0.9i
+するー	THE THROW	名詞
+３１わ	さくらの名前のない本	固有名詞
+ささきのぞみ	佐々木望	人名
+
+! ver.0.9j
+りんぐ	THE RING	名詞
+りんぐ	輪	その他自立語
+りんぐ	リング	名詞
+
+! ver.0.9m
+!いわおじゅんこ	http://www.starboard.ne.jp/goo.html	慣用句
+
+! ver.0.9n
+やまななくる	山名奈久留	人名
+
+! ver.1.11
+５３わ	５２話	名詞
+おけさわりか	桶澤利香	人名
+
+! ver.1.12
+おのざかまさや	小野坂昌也	人名
+やすいくにひろ	安井邦彦	人名
+さくらとあそぼ２	さくらとあそぼ２ さくらのパソコンどうぐばこ	固有名詞
+さくらとあそぼ２	さくらとあそぼ２	固有名詞
+
+! ver.1.12+
+すまあ	すまあ	固有名詞
+
+! ver.1.16
+きぼう	希望	その他自立語
+あすへのめろでぃー	明日へのメロディー	固有名詞
+ここにきて	ここにきて	固有名詞
+
+! ver.1.21
+あんざ	http://www.stardust.co.jp/rooms/anza/	慣用句
+みはらいちろう	三原一郎	人名
+ｃ３ｂ	カードキャプターさくらチェリーブロッサム	固有名詞
+しーさんびー	カードキャプターさくらチェリーブロッサム	固有名詞
+たんげさくら	http://www.konami.co.jp/kme/alice/index.html	慣用句
+おがためぐみ	http://www.universal-music.co.jp/jpop/ogata/	慣用句
+さかもとまあや	http://www.jvcmusic.co.jp/m-serve/artist/maaya/body.html	慣用句
